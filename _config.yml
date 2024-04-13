@@ -9,7 +9,8 @@ url: "https://edinburghacrofestival.github.io" # the base hostname & protocol fo
 
 twitter_username: #volnyio
 github_username:  #volny
-instagram_username: acrosomething
+instagram_username: edinburghacrofest
+email: mundayacroevents@gmail.com
 
 # Build settings
 markdown: kramdown
